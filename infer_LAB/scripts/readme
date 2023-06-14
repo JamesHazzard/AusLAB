@@ -1,0 +1,2 @@
+references:
+- lib_anelasticity.py allows reading of a tomography model and conversion into an array of temperatures (Richards et al., 2020, JGR, DOI: https://doi.org/10.1029/2019JB019062)

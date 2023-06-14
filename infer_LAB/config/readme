@@ -1,0 +1,4 @@
+place your config files here
+
+# base, data_input, data_output and plot_output must be absolute paths
+# rest are relative paths
