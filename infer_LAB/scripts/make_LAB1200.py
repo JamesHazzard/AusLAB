@@ -7,7 +7,6 @@ from os import sys
 from os.path import join
 import configparser
 import os
-import subprocess
 import time
 import sys, getopt
 from datetime import datetime
