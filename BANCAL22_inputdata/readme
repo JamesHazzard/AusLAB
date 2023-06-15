@@ -4,3 +4,6 @@ If you would like to rerun the inversion yourself, use "transfer_data.sh" (updat
 to copy the data in the correct format into your local version of BANCAL22. 
 
 If you prefer to just use the set of BANCAL22 output samples we generated, see "infer_LAB/data_input/BANCAL22_samples".
+
+Dependencies:
+- GNU Bash (5.0.17(1))

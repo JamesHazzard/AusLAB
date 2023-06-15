@@ -1,0 +1,10 @@
+This directory contains the software required to take a set of BANCAL22 samples, and turn them into a probabilistic inference of LAB depth.
+
+Dependencies:
+- GNU Bash (5.0.17(1))
+- Python (3.8.10)
+- numpy (1.22.3)
+- pandas (1.5.3)
+- scipy (1.8.0)
+- configparser (5.3.0)
+- h5py (3.6.0)
